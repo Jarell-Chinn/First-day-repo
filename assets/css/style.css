@@ -5,13 +5,13 @@
 }
 
 body {
-    background-color: #d9d6dc;
+    background-color: #d9dcd6;
 }
 
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #7c2a71;
+    background-color: #2a607c;
     color: #ffffff;
 }
 
@@ -83,7 +83,7 @@ p { /* Increased the font size by 4 to make it more readable. */
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #7626ac;
+    background-color: #2589bd;
 }
 
 .benefit-lead {
@@ -139,7 +139,7 @@ p { /* Increased the font size by 4 to make it more readable. */
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #7626ac;
+    background-color: #0072bb;
     color: #ffffff;
 }
 
@@ -148,7 +148,7 @@ p { /* Increased the font size by 4 to make it more readable. */
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #7626ac;
+    background-color: #0072bb;
     color: #ffffff;
 }
 
@@ -157,7 +157,7 @@ p { /* Increased the font size by 4 to make it more readable. */
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #7626ac;
+    background-color: #0072bb;
     color: #ffffff;
 }
 
