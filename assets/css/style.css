@@ -160,16 +160,8 @@ p { /* Increased the font size by 4 to make it more readable. */
     background-color: #0072bb;
     color: #ffffff;
 }
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
+/*Got rid of the repeated code by merging them together.*/
+.search-engine-optimization img , .online-reputation-management img , .social-media-marketing img {
     max-height: 200px;
 }
 /*Got rid of the repeated code by merging them together.*/
