@@ -46,8 +46,8 @@ a {
     text-decoration: none;
 }
 
-p { /* Increased the font size by 4 to make it more readable. */
-    font-size: 16px;
+p {
+    font-size: 12px;
 }
 
 .hero {
